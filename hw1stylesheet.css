@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: rgb(18, 247, 167);
+}
+h2{
+    text-align: center;
+    color: rgb(18, 247, 167);
+}
+h3{
+    color: rgb(192, 226, 43);
+}
+h4{
+    color: rgb(192, 226, 43);
+}
+.changetext{ 
+    color: rgb(165, 244, 109); 
+}
+.favquote{
+    color: rgb(18, 247, 167); background-color: rgb(140, 95, 232); border-style: dashed; text-align: center; border-radius: 8px; font-size: 16pt;
+}
+
+img{
+    border-radius: 8px;
+    padding: 5px;
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.link{
+    color:aqua;
+    font-style: italic;
+}
+
+ul{
+    color: rgb(58, 244, 68);
+    font-size: 14pt;
+}
+
+body{
+    background-image: url('field_bkgrnd.jpg');
+    /* background-repeat: no-repeat; */
+    /* position: relative; */
+    z-index: 8;
+    
+}
